@@ -1,15 +1,8 @@
 # KdVFlows
 
-A Mathematica package for computing symmetries and flows of the KdV equation. For mathematical background, see:
-
-```bibtex
-@book{miwa1991solitons,
-    author = "Miwa, Tetsuji and Date, Etsuro and Jimbo, Michio",
-    title = "{Solitons: Differential Equations, Symmetries and Infinite Dimensional Algebras}",
-    isbn = "978-1-107-40419-9",
-    series = "Cambridge Tracts in Mathematics"
-}
-```
+A Mathematica package for computing the symmetries and flow hierarchy of the KdV equation.
+For background, see:
+*Tetsuji Miwa, Etsuro Date, and Michio Jimbo, **Solitons: Differential Equations, Symmetries and Infinite Dimensional Algebras**, Cambridge Tracts in Mathematics, Cambridge University Press (1991).*
 
 ## Overview
 
