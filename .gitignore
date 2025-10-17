@@ -1,0 +1,22 @@
+# Mathematica/Wolfram
+*.mx
+*.nb~
+*.m~
+.nb.swp
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Wolfram cache
+.WolframResources/
